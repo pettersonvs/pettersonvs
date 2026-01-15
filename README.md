@@ -48,14 +48,6 @@ Projeto colaborativo com backend em Python e frontend em JavaScript.
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-![Petterson GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=dracula)
-
----
-
 ## 📫 Contato
 
 📧 Email: petterson1998@yahoo.com  
