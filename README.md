@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Guilherme Barbosa
+# 👋 Olá, eu sou o Petterson Neves
 
 🚀 Desenvolvedor Python | Backend | Automações | Flask  
 💻 Experiência em TI, suporte técnico e desenvolvimento de aplicações web  
