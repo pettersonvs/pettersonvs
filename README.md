@@ -51,7 +51,7 @@ Projeto colaborativo com backend em Python e frontend em JavaScript.
 ## 📫 Contato
 
 📧 Email: petterson1998@yahoo.com  
-💼 LinkedIn: [https://linkedin.com/in/seuperfil  ](https://www.linkedin.com/in/petterson-neves/)
+💼 LinkedIn: [https://linkedin.com/in/petterson-neves](https://www.linkedin.com/in/petterson-neves/)
 
 ---
 
