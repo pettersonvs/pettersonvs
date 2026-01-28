@@ -42,8 +42,8 @@ Aplicação Flask que extrai dados de PDFs e gera planilhas automatizadas.
 🔹 **Sistema Web de Consulta de Salas**  
 Aplicação para alunos consultarem a sala da aula do dia, com backend em Python.
 
-🔹 **Plataforma de Conversão PDF ↔ DOCX**  
-Projeto colaborativo com backend em Python e frontend em JavaScript.
+🔹 **IA para devocionais**  
+Projeto em python para auxiliar iniciantes na jornada da fé
 
 
 ---
